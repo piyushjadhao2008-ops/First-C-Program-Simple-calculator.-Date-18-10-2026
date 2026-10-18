@@ -1,0 +1,26 @@
+# 🧮 Console-Based Simple Calculator in C
+
+Welcome to my very first official C programming project! This repository marks the beginning of my engineering portfolio as a computer science student.
+
+## 🚀 Project Overview
+This is a menu-driven, command-line calculator built using a `switch-case` architecture in C. Unlike basic tutorials, this implementation features input handling to prevent runtime errors.
+
+### 🛠️ Key Features
+* **Full Arithmetic Suite:** Handles Addition, Subtraction, Multiplication, and Division.
+* **Smart Validation:** Features a robust edge-case check to completely prevent **Division by Zero** application crashes.
+* **User-Friendly Menu:** Clean, numeric option-based console interface.
+
+## 💻 How to Compile & Run
+To run this application on your local machine, open your terminal and execute the following sequential commands:
+
+* **Step 1:** Compile the source code using the GNU Compiler Collection (GCC):
+  ```bash
+  gcc "Basic Calculator.c" -o calculator
+  ```
+* **Step 2:** Run the compiled binary executable:
+  ```bash
+  ./calculator
+  ```
+
+---
+*Maintained by [piyushjadhao2008-ops](https://github.com) 🚀*
